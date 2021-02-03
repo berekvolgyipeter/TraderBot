@@ -1,0 +1,63 @@
+2021-02-02 10:39:52.47: Top 24h volume coins have been selected for trading: ['BTC-USDC', 'BTC-VET', 'BTC-TUSD', 'BTC-ETH', 'BTC-ADA', 'BTC-VTC', 'BTC-ENJ', 'BTC-DOGE', 'BTC-QNT', 'BTC-EOS', 'BTC-LTC', 'BTC-HBAR', 'BTC-UQC', 'BTC-SPND', 'BTC-DGB', 'BTC-CRO', 'BTC-LBC', 'BTC-ME', 'BTC-XEM', 'BTC-LINK', 'BTC-SC', 'BTC-XLM', 'BTC-TRX', 'BTC-XVG', 'BTC-XRP', 'BTC-LUNA', 'BTC-OMG', 'BTC-BSV', 'BTC-BCH', 'BTC-RDD']
+2021-02-02 10:39:52.58: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:39:54.59: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:39:56.61: Unable to execute API call: getopenorders{}. APIKEY_INVALID
+2021-02-02 10:39:56.73: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:39:58.75: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:40:00.76: Unable to execute API call: getbalance{'currency': 'BTC'}. APIKEY_INVALID
+2021-02-02 10:40:37.36: Top 24h volume coins have been selected for trading: ['BTC-USDC', 'BTC-VET', 'BTC-TUSD', 'BTC-ETH', 'BTC-ADA', 'BTC-VTC', 'BTC-ENJ', 'BTC-DOGE', 'BTC-QNT', 'BTC-EOS', 'BTC-LTC', 'BTC-HBAR', 'BTC-UQC', 'BTC-SPND', 'BTC-DGB', 'BTC-CRO', 'BTC-LBC', 'BTC-ME', 'BTC-XEM', 'BTC-LINK', 'BTC-SC', 'BTC-XLM', 'BTC-TRX', 'BTC-XVG', 'BTC-XRP', 'BTC-LUNA', 'BTC-OMG', 'BTC-BSV', 'BTC-BCH', 'BTC-RDD']
+2021-02-02 10:40:37.47: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:40:39.50: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:40:41.51: Unable to execute API call: getopenorders{}. APIKEY_INVALID
+2021-02-02 10:40:41.64: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:40:43.65: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:40:45.67: Unable to execute API call: getbalance{'currency': 'BTC'}. APIKEY_INVALID
+2021-02-02 10:40:45.79: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 10:40:47.81: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 10:40:49.83: Unable to execute API call: getbalances{}. APIKEY_INVALID
+2021-02-02 10:43:16.84: Top 24h volume coins have been selected for trading: ['BTC-USDC', 'BTC-VET', 'BTC-TUSD', 'BTC-ETH', 'BTC-ADA', 'BTC-VTC', 'BTC-ENJ', 'BTC-DOGE', 'BTC-QNT', 'BTC-EOS', 'BTC-LTC', 'BTC-HBAR', 'BTC-UQC', 'BTC-SPND', 'BTC-DGB', 'BTC-CRO', 'BTC-LBC', 'BTC-ME', 'BTC-XEM', 'BTC-LINK', 'BTC-SC', 'BTC-XLM', 'BTC-TRX', 'BTC-XVG', 'BTC-XRP', 'BTC-LUNA', 'BTC-OMG', 'BTC-BSV', 'BTC-BCH', 'BTC-RDD']
+2021-02-02 10:43:16.96: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:43:18.98: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:43:20.99: Unable to execute API call: getopenorders{}. APIKEY_INVALID
+2021-02-02 10:43:21.10: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:43:23.12: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:43:25.13: Unable to execute API call: getbalance{'currency': 'BTC'}. APIKEY_INVALID
+2021-02-02 10:43:25.24: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 10:43:27.26: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 10:43:29.27: Unable to execute API call: getbalances{}. APIKEY_INVALID
+2021-02-02 10:58:17.15: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:58:19.16: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 10:58:21.18: Unable to execute API call: getopenorders{}. APIKEY_INVALID
+2021-02-02 10:58:21.30: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:58:23.32: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 10:58:25.33: Unable to execute API call: getbalance{'currency': 'BTC'}. APIKEY_INVALID
+2021-02-02 10:58:25.46: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 10:58:27.47: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 10:58:29.49: Unable to execute API call: getbalances{}. APIKEY_INVALID
+2021-02-02 11:20:54.56: Top 24h volume coins have been selected for trading: ['BTC-USDC', 'BTC-VET', 'BTC-TUSD', 'BTC-ETH', 'BTC-ADA', 'BTC-VTC', 'BTC-ENJ', 'BTC-DOGE', 'BTC-QNT', 'BTC-EOS', 'BTC-LTC', 'BTC-HBAR', 'BTC-UQC', 'BTC-SPND', 'BTC-DGB', 'BTC-CRO', 'BTC-LBC', 'BTC-ME', 'BTC-XEM', 'BTC-LINK', 'BTC-SC', 'BTC-XLM', 'BTC-TRX', 'BTC-XVG', 'BTC-XRP', 'BTC-LUNA', 'BTC-OMG', 'BTC-BSV', 'BTC-BCH', 'BTC-RDD']
+2021-02-02 11:20:54.81: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 11:20:56.83: Failed API call: getopenorders{}. Trying again. APIKEY_INVALID
+2021-02-02 11:20:58.84: Unable to execute API call: getopenorders{}. APIKEY_INVALID
+2021-02-02 11:20:58.97: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 11:21:00.97: Failed API call: getbalance{'currency': 'BTC'}. Trying again. APIKEY_INVALID
+2021-02-02 11:21:02.98: Unable to execute API call: getbalance{'currency': 'BTC'}. APIKEY_INVALID
+2021-02-02 11:21:03.23: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 11:21:05.25: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 11:21:07.25: Unable to execute API call: getbalances{}. APIKEY_INVALID
+2021-02-02 11:21:07.37: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 11:21:09.39: Failed API call: getbalances{}. Trying again. APIKEY_INVALID
+2021-02-02 11:21:11.39: Unable to execute API call: getbalances{}. APIKEY_INVALID
+2021-02-02 15:49:33.53: Top 24h volume coins have been selected for trading: ['BTC-USDC', 'BTC-VET', 'BTC-TUSD', 'BTC-ETH', 'BTC-ADA', 'BTC-VTC', 'BTC-ENJ', 'BTC-DOGE', 'BTC-QNT', 'BTC-EOS', 'BTC-LTC', 'BTC-HBAR', 'BTC-UQC', 'BTC-SPND', 'BTC-DGB', 'BTC-DFI', 'BTC-CRO', 'BTC-LBC', 'BTC-ME', 'BTC-XEM', 'BTC-LINK', 'BTC-SC', 'BTC-XLM', 'BTC-TRX', 'BTC-XVG', 'BTC-XRP', 'BTC-LUNA', 'BTC-BSV', 'BTC-RDD', 'BTC-NEO']
+2021-02-02 15:49:33.53: BTC balance: 1.000000, Full balance in BTC: 1.000000
+
+2021-02-02 15:52:56.30: Top 24h volume coins have been selected for trading: ['BTC-USDC', 'BTC-VET', 'BTC-TUSD', 'BTC-ETH', 'BTC-ADA', 'BTC-VTC', 'BTC-ENJ', 'BTC-DOGE', 'BTC-QNT', 'BTC-EOS', 'BTC-LTC', 'BTC-HBAR', 'BTC-UQC', 'BTC-SPND', 'BTC-DGB', 'BTC-DFI', 'BTC-CRO', 'BTC-LBC', 'BTC-ME', 'BTC-XEM', 'BTC-LINK', 'BTC-SC', 'BTC-XLM', 'BTC-TRX', 'BTC-XVG', 'BTC-XRP', 'BTC-LUNA', 'BTC-BSV', 'BTC-RDD', 'BTC-NEO']
+2021-02-02 15:52:56.30: BTC balance: 1.000000, Full balance in BTC: 1.000000
+
+2021-02-02 16:07:56.36: BTC balance: 1.000000, Full balance in BTC: 1.000000
+
+2021-02-02 16:22:56.34: BTC balance: 1.000000, Full balance in BTC: 1.000000
+
+2021-02-02 16:37:56.37: BTC balance: 1.000000, Full balance in BTC: 1.000000
+
+2021-02-02 16:52:56.40: BTC balance: 1.000000, Full balance in BTC: 1.000000
+
